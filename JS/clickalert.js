@@ -1,9 +1,10 @@
 /*MORALES PEREZ AXEL JONATHNA*/
 $(document).ready(function(){
+
 	$("#A").click(function(evento){ 
 	alert("REFRESCAR MENU");
 	});
-	
+		
 	$("#a").click(function(evento){ 
 	alert("ESTAS POR INGRESAR NUESTRAS ESPECALEIDADES DE LA ESCUELA");
 	});
@@ -13,7 +14,7 @@ $(document).ready(function(){
 	});
 	
 	$("#i").click(function(evento){ 
-	alert("ESTAS POR INGRESAR EN LA SECCION DE CONOCENOS, !CONOCE EL PLANTEL CBTIS N.243¡");
+	alert("ESTAS POR INGRESAR EN LA SECCION DE CONOCENOS, ¡CONOCE EL PLANTEL CBTIS N.243!");
 	});
 	
 	$("#o").click(function(evento){ 
@@ -21,6 +22,6 @@ $(document).ready(function(){
 	});
 	
 	$("#u").click(function(evento){ 
-	alert("ESTAS POR INGRESAR A BECAS BENITO JUAREZ";
+	alert("ESTAS POR INGRESAR A BECAS BENITO JUAREZ");
 	});
 });
